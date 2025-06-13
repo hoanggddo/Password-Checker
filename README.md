@@ -39,15 +39,6 @@ The checker evaluates your password based on:
 
 ---
 
-## 📁 Project Structure
-
-PasswordStrengthChecker/
-├── common.txt # List of common passwords (one per line)
-├── checker.py # Main Python script
-└── README.md # Project documentation
-
-
----
 
 ## 🖥️ Getting Started
 
